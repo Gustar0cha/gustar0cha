@@ -1,4 +1,5 @@
-### Hi there 👋
+
+ <img width=100% bottom=50PX SRC="https://github.com/Gustar0cha/gustar0cha/assets/157703411/924ddfd5-c912-457d-a767-e1d122143b05"/>
 
 <!--
 **Gustar0cha/gustar0cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
