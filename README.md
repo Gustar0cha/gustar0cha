@@ -25,7 +25,7 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/toquinhaman/](https://www.instagram.com/gustavo.r0/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rocha-62993a277/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rocha-62993a277/)
 
 <!-- GithubStats -->
 [![gustar0cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustar0cha&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
