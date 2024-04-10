@@ -9,9 +9,9 @@
 <p>
   Hi 👋, I'm Gustavo! A passionate Programming student from Brazil.
 
-  - 🌱 I am currently studying Systems Analysis and Development at UNIFG <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I am currently studying Systems Analysis and Development at UNIFG.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I'm looking for my first job opportunity. My dream of working as front end and UI/UIX..
 </p>
 
 <!-- Dropdown -->
