@@ -14,15 +14,6 @@
   - 🔭 I'm looking for my first job opportunity. My dream of working as front end and UI/UIX..
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 22 years old and currently live in Brazil. Studying to be Fluent in English and have experience with HTML, CSS, Java, Javascript. I also have important skills such as creativity, communication, marketing, analytical skills, people management and social media.
-
-  - ⚡ I like to play games, read a good book, manga or comics, as well as watch movies and series! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
-</details>
-
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/toquinhaman/](https://www.instagram.com/gustavo.r0/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rocha-62993a277/)
